@@ -82,8 +82,21 @@ No content is intended to insult, defame, or misrepresent any individual.
 
 Israr Brohi
 Android Developer • Game Enthusiast • Electronics Technician
+screenshots
+<p align="center">
+  <img src="screenshots/splash.jpg" width="220"/>
+  <img src="screenshots/game.jpg" width="220"/>
+  <img src="screenshots/score.jpg" width="220"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/Settings.jpg" width="220"/>
+  <img src="screenshots/themes.jpg" width="220"/>
+  <img src="screenshots/about.jpg" width="220"/>
+</p>
 
 📄 License
 
 This project is shared for learning and demonstration purposes.
 Redistribution or modification without permission is not allowed.
+
