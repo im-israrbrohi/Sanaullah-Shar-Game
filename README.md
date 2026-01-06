@@ -83,18 +83,40 @@ No content is intended to insult, defame, or misrepresent any individual.
 Israr Brohi
 Android Developer • Game Enthusiast • Electronics Technician
 screenshots
+
+<!-- Splash -->
+<h3 align="center">🚀 Splash Screen</h3>
 <p align="center">
-  <img src="screenshots/splash.jpg" width="220"/>
-  <img src="screenshots/game.jpg" width="220"/>
-  <img src="screenshots/score.jpg" width="220"/>
+  <img src="screenshots/splash.jpg" width="260" alt="Splash Screen"/>
 </p>
 
+<!-- Authorization -->
+<h3 align="center">🔐 Device Authorization</h3>
 <p align="center">
-  <img src="screenshots/Settings.jpg" width="220"/>
-  <img src="screenshots/themes.jpg" width="220"/>
-  <img src="screenshots/about.jpg" width="220"/>
+  <img src="screenshots/verifying.jpg" width="240" alt="Device Verification"/>
+  <img src="screenshots/activation.jpg" width="240" alt="Device Activation"/>
 </p>
 
+<!-- Gameplay -->
+<h3 align="center">🎮 Gameplay</h3>
+<p align="center">
+  <img src="screenshots/game.jpg" width="240" alt="Game Screen"/>
+  <img src="screenshots/score.jpg" width="240" alt="Score Screen"/>
+</p>
+
+<!-- Settings -->
+<h3 align="center">⚙️ Settings & Customization</h3>
+<p align="center">
+  <img src="screenshots/Settings.jpg" width="240" alt="Settings Screen"/>
+  <img src="screenshots/themes.jpg" width="240" alt="Themes Screen"/>
+</p>
+
+<!-- Info -->
+<h3 align="center">ℹ️ About & Legal</h3>
+<p align="center">
+  <img src="screenshots/about.jpg" width="240" alt="About Screen"/>
+  <img src="screenshots/disclaimer.jpg" width="240" alt="Disclaimer Screen"/>
+</p>
 📄 License
 
 This project is shared for learning and demonstration purposes.
